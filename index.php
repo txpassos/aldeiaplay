@@ -97,8 +97,5 @@
   <?php include(TEMPLATEPATH.'/mod-livros2.php');?>
 <!-- FIM - Módulo - Livros -->
 
-<!-- INICIO - Módulo - Livros -->
-  <?php include(TEMPLATEPATH.'/mod-youtube.php');?>
-<!-- FIM - Módulo - Livros -->
 </div>
 <?php get_footer(); ?>
