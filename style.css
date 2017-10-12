@@ -1,9 +1,9 @@
 /*
-Theme Name: Notícias do Acre - 2017
-Theme URI: <a rel="nofollow" href="http://www.agencia.ac.gov.br" class="vglnk"><span>http</span><span>://</span><span>www</span><span>.</span><span>agencia</span><span>.</span><span>ac</span><span>.</span><span>gov</span><span>.</span><span>br</span></a>
-Description: Not~icias do Acre - 2017
-Author: Adaildo Neto e Thennyson Passos
-Author URI: <a rel="nofollow" href="http://www.agencia.ac.gov.br" class="vglnk"><span>http</span><span>://</span><span>www</span><span>.</span><span>agencia</span><span>.</span><span>ac</span><span>.</span><span>gov</span><span>.</span><span>br</span></a>
+Theme Name: Aldeia Play
+Theme URI: <a rel="nofollow" href="http://www.aldeiaplay.com.br" class="vglnk"><span>http</span><span>://</span><span>www</span><span>.</span><span>aldeiaplay</span><span>.</span><span>com</span><span>.</span><span>br</span></a>
+Description: Aldeia Play
+Author: Thennyson Passos
+Author URI: <a rel="nofollow" href="http://www.aldeiaplay.com.br" class="vglnk"><span>http</span><span>://</span><span>www</span><span>.</span><span>aldeiaplay</span><span>.</span><span>com</span><span>.</span><span>br</span></a>
 */
 
  html, body, .block{
@@ -1022,7 +1022,7 @@ a.button-collapse{
 
 .autor-name{
   display: grid;
-  padding: 10px 0 5px 10px; 
+  padding: 10px 0 5px 10px;
 }
 
 .autor-link{
